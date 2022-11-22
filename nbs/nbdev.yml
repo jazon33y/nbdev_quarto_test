@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_quarto_test"
+  site-url: "https://jazon33y.github.io/nbdev_quarto_test"
+  description: "nbdev test"
+  repo-branch: main
+  repo-url: "https://github.com/jazon33y/nbdev_quarto_test"
